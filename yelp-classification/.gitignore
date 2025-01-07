@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio cache files
+*.suo
+*.user
+*.sln.DotSettings
+*.idea
+
+# Visual Studio temporary files
+*.tmp
+*.log
+
+# Symbol files
+*.pdb
+
+# NuGet cache
+packages/
